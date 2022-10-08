@@ -1,3 +1,3 @@
 privet
-11:00
+11:45
 seminar
